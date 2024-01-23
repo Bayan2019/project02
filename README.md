@@ -2,6 +2,15 @@
 
 this is profile web-page that outlines my qualities.
 
+## 🤝 Contributing
+
+### Clone the repo
+
+```bash
+git clone https://github.com/Bayan/project02@latest
+cd project02
+```
+
 ### Build the project
 
 ```bash

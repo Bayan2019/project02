@@ -1,6 +1,9 @@
 # Creating profile page for my brand
 
-this is profile web-page that outlines my qualities.
+This is profile web-page that outlines my qualities.
+
+On the other hand I want to make two way of communications. 
+I want to keep track of people visiting my page and hopefully our communcations.
 
 ## 🤝 Contributing
 
